@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj": {}
+    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj": {
+    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj"
+              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -53,27 +56,21 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
+    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -111,16 +108,74 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saveh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
         }
       }
     }

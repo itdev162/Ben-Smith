@@ -1,9 +1,18 @@
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\bin\Debug\netstandard2.0\Domain.deps.json
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\bin\Debug\netstandard2.0\Domain.dll
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\bin\Debug\netstandard2.0\Domain.pdb
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.dll
-C:\Users\saveh\OneDrive\Documents\clientsrver\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\saveh\Downloads\barry-molina-main (1)\barry-molina-main\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\saveh\Downloads\Ben Smith\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\saveh\Downloads\Ben Smith\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\saveh\Downloads\Ben Smith\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\saveh\Downloads\Ben Smith\Domain\obj\Debug\netstandard2.0\Domain.pdb

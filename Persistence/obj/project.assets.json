@@ -1366,6 +1366,7 @@
       "path": "microsoft.netcore.targets/1.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2996,6 +2997,7 @@
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4054,11 +4056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4077,8 +4079,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj"
+            "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
             }
           }
         }
