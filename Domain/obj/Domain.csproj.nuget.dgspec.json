@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {}
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

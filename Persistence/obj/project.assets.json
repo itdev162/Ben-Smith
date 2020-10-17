@@ -4056,11 +4056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4079,8 +4079,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
+            "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj"
             }
           }
         }

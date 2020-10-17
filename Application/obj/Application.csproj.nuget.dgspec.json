@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj": {}
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj": {
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Application\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
+              "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj"
+              "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\saveh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -141,8 +141,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\saveh\\Downloads\\Ben Smith\\Domain\\Domain.csproj"
+              "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\saveh\\OneDrive\\Documents\\clientsrver\\Domain\\Domain.csproj"
               }
             }
           }

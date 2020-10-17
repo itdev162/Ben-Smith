@@ -40,3 +40,24 @@ C:\Users\saveh\Downloads\Ben Smith\API\obj\Debug\netcoreapp2.2\API.RazorTargetAs
 C:\Users\saveh\Downloads\Ben Smith\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
 C:\Users\saveh\Downloads\Ben Smith\API\obj\Debug\netcoreapp2.2\API.dll
 C:\Users\saveh\Downloads\Ben Smith\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\saveh\OneDrive\Documents\clientsrver\API\obj\Debug\netcoreapp2.2\API.pdb
